@@ -1,6 +1,6 @@
 public class SayHello {
     public static void main(String[] args) {
         String name ="Ariel Vazquez";
-        System.out.println(" Hola mundo " + name);
+        System.out.println("mundo " + name);
     }
 }
